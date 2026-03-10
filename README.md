@@ -1,4 +1,4 @@
-# 🎓 CEN [2024_BEOTKKOTTHON_TEAM_10_BE_SPRING]
+# 🎓 CEN
 **"복잡한 공고 속에서 찾는 나만의 혜택, 맞춤형 장학금 큐레이션 플랫폼"**
 <br>
 
@@ -40,7 +40,7 @@
 
 ---
 
-## 🤝 협업 포인트: Spring과 Express 서버간 스택 통합
+## 🤝 Spring과 Express 서버간 스택 통합
 ```
 [ Client: iOS ]
        │
